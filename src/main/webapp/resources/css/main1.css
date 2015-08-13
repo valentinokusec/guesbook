@@ -1,0 +1,10 @@
+#element1 {display:inline-block;margin-right:10px; } 
+#menu-toggle { } 
+#bt{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
